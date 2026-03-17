@@ -36,6 +36,19 @@ ssh uh
 python3 main.py
 ```
 
+## Roadmap
+
+- [ ] **Hello World** -- display text on the touchscreen, blink the LED
+- [ ] **Read onboard sensors** -- light, accelerometer, gyroscope via PinPong
+- [ ] **Plant moisture monitoring** -- analog soil moisture sensor + screen display
+- [ ] **Temperature & humidity** -- DHT11 sensor logging
+- [ ] **IoT dashboard** -- push sensor data to SIoT/MQTT, view remotely
+- [ ] **Voice recognition** -- use built-in microphone for voice commands
+- [ ] **Speech synthesis** -- text-to-speech feedback on plant status
+- [ ] **AI voice assistant** -- integrate with OpenAI API for natural language plant care Q&A
+- [ ] **Automated alerts** -- notifications when soil is dry or conditions change
+- [ ] **Camera integration** -- USB camera for plant health visual monitoring
+
 ## Resources
 
 - [UNIHIKER Wiki](https://www.unihiker.com/wiki/)
